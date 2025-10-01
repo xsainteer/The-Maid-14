@@ -30,9 +30,6 @@ public sealed partial class AnimatedEmotesSystem : SharedAnimatedEmotesSystem
 {
     [Dependency] private readonly AnimationPlayerSystem _anim = default!;
     [Dependency] private readonly IPrototypeManager _prot = default!;
-    [Dependency] private readonly RaysSystem _rays = default!;
-    [Dependency] private readonly IGameTiming _timing = default!;
-    [Dependency] private readonly TransformSystem _transform = default!;
 
     private const int TweakAnimationDurationMs = 1100; // 11 frames * 100ms per frame
     private const int FlexAnimationDurationMs = 200 * 7; // 7 frames * 200ms per frame
@@ -48,30 +45,6 @@ public sealed partial class AnimatedEmotesSystem : SharedAnimatedEmotesSystem
         SubscribeLocalEvent<AnimatedEmotesComponent, AnimationJumpEmoteEvent>(OnJump);
         SubscribeLocalEvent<AnimatedEmotesComponent, AnimationTweakEmoteEvent>(OnTweak);
         SubscribeLocalEvent<AnimatedEmotesComponent, AnimationFlexEmoteEvent>(OnFlex);
-        SubscribeNetworkEvent<BibleFartSmiteEvent>(OnBibleSmite);
-    }
-
-    public void OnBibleSmite(BibleFartSmiteEvent args)
-    {
-        EntityUid uid = GetEntity(args.Bible);
-        if (!_timing.IsFirstTimePredicted || uid == EntityUid.Invalid)
-            return;
-
-        var rays = _rays.DoRays(_transform.GetMapCoordinates(uid),
-            Color.LightGoldenrodYellow,
-            Color.AntiqueWhite,
-            10,
-            15,
-            minMaxRadius: new Vector2(3f, 6f),
-            minMaxEnergy: new Vector2(2f, 4f),
-            proto: "EffectRayCharge",
-            server: false);
-
-        if (rays == null)
-            return;
-
-        var track = EnsureComp<TrackUserComponent>(rays.Value);
-        track.User = uid;
     }
 
     public void PlayEmote(EntityUid uid, Animation anim, string animationKey = "emoteAnimKeyId")
