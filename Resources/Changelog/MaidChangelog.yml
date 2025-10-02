@@ -1,7 +1,23 @@
+Name: Gooblog
+Order: -1
 Entries:
 - author: Warete
   changes:
-  - message: Changelog проекта Maid! Да!
-    type: Add
+    - message: Changelog проекта Maid! Да!
+      type: Add
   id: 1
   time: '2025-10-02T18:44:20.0000000+00:00'
+- author: HSKveez
+  changes:
+    - type: Fix
+      message: IC имена теперь могут содержать кирилицу
+    - type: Fix
+      message: Теперь клиент закрывается без краша
+    - type: Tweak
+      message: Гайдбук в лобби теперь откроется лишь раз для новых игроков
+    - type: Remove
+      message: Серверная валюта
+    - type: Remove
+      message: Эмоуты пердежа
+  id: 2
+  time: '2025-10-01T09:11:24.0000000+00:00'
