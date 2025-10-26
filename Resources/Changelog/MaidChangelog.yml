@@ -81,3 +81,13 @@ Entries:
       message: Некоторые спрайты.
   id: 7
   time: '2025-10-17T18:19:35.0000000+00:00'
+- author: Warete
+  changes:
+    - type: Tweak
+      message: Вор выключен.
+    - type: Tweak
+      message: Таймер на спавн шаттлов с ивентов был увеличен.
+    - type: Add
+      message: Старые причёски.
+  id: 8
+  time: '2025-10-26T16:32:33.0000000+00:00'
