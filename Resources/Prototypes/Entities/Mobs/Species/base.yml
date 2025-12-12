@@ -277,8 +277,6 @@
     - map: [ "enum.HumanoidVisualLayers.RFoot" ]
     - map: [ "socks" ] #White
     - map: ["jumpsuit"]
-    - map: ["enum.HumanoidVisualLayers.LFoot"]
-    - map: ["enum.HumanoidVisualLayers.RFoot"]
     - map: ["enum.HumanoidVisualLayers.LHand"]
     - map: ["enum.HumanoidVisualLayers.RHand"]
     - map: ["enum.HumanoidVisualLayers.Face"] #Goob 120 - why did we have face on dummy but not basespecies
@@ -615,8 +613,6 @@
     - map: [ "enum.HumanoidVisualLayers.Undershirt" ] # Goob 3370
     - map: [ "underwearb" ] #White
     - map: [ "underweart" ] #White
-    - map: [ "enum.HumanoidVisualLayers.LFoot" ]
-    - map: [ "enum.HumanoidVisualLayers.RFoot" ]
     - map: [ "socks" ] #White
     - map: ["jumpsuit"]
     - map: ["enum.HumanoidVisualLayers.LFoot"]
