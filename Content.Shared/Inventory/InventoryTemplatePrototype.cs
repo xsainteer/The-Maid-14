@@ -69,7 +69,9 @@ public sealed partial class SlotDefinition
     ///     Whether or not this slot will have its item hidden in the strip menu, and block interactions.
     ///     <seealso cref="SharedStrippableSystem.IsStripHidden"/>
     /// </summary>
-    [DataField("stripHidden")] public bool StripHidden { get; set; } // maid changes
+    [DataField("stripHidden")] public bool StripHidden { get; internal set; } // maid changes
+
+    public int HideCount { get; internal set; } = 0; // maid changes
 
     /// <summary>
     ///     Offset for the clothing sprites.

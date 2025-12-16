@@ -153,8 +153,6 @@ public abstract partial class InventorySystem
         if (!TryGetSlot(uid, args.Container.ID, out var slotDef, inventory: component))
             return;
 
-        HideSlotsOnConcealerUnequip(uid, component, args.Container.ID); // maid changes
-
         var unequippedEvent = new DidUnequipEvent(uid, args.Entity, slotDef);
         RaiseLocalEvent(uid, unequippedEvent, true);
 
@@ -166,8 +164,6 @@ public abstract partial class InventorySystem
     {
         if (!TryGetSlot(uid, args.Container.ID, out var slotDef, inventory: component))
             return;
-
-        HideSlotsOnConcealerEquip(uid, component, args.Container.ID); // maid changes
 
         var equippedEvent = new DidEquipEvent(uid, args.Entity, slotDef);
         RaiseLocalEvent(uid, equippedEvent, true);
