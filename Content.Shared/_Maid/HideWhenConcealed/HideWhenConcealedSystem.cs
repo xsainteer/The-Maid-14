@@ -11,8 +11,6 @@ public sealed class HideWhenConcealedSystem : EntitySystem
 {
     [Dependency] private readonly InventorySystem _inventorySystem = default!;
 
-    public Dictionary<(EntityUid, string), int> SlotHideCounts { get; set; } = new();
-
     /// <summary>
     /// Key - concealer slot (e.g., outerClothing)
     /// Value - Comma-separated string of slots to hide (e.g., "underwearb,underweart")
@@ -37,9 +35,7 @@ public sealed class HideWhenConcealedSystem : EntitySystem
         if (!TryComp<InventoryComponent>(ent.Owner, out var inv))
             return;
 
-        var proto = Prototype(ent.Owner);
-
-        if (!SlotsToHide.TryGetValue(proto!.ID, out string? slotsString))
+        if (!SlotsToHide.TryGetValue(args.Slot, out string? slotsString))
             return;
 
         var slotIds = slotsString.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
@@ -70,9 +66,7 @@ public sealed class HideWhenConcealedSystem : EntitySystem
         if (!TryComp<InventoryComponent>(ent.Owner, out var inv))
             return;
 
-        var proto = Prototype(ent.Owner);
-
-        if(!SlotsToHide.TryGetValue(proto!.ID, out string? slotsString))
+        if (!SlotsToHide.TryGetValue(args.Slot, out string? slotsString))
             return;
 
         var slotIds = slotsString.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);

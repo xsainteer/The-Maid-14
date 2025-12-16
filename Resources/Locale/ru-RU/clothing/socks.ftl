@@ -25,9 +25,6 @@ ent-ClothingUnderwearSocksRainbowKnee = носки
 ent-ClothingUnderwearSocksRainbowThigh = носки
     .desc = Радужные.
 
-ent-ClothingUnderwearSocksRainbowThigh = носки
-    .desc = Радужные.
-
 ent-ClothingUnderwearSocksHigh = высокие носки
     .desc = Белые.
 
