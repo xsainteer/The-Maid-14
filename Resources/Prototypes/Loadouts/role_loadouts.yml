@@ -135,6 +135,7 @@
   - CaptainEnvirogloves
   - CaptainGloves
   - CaptainUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobHeadOfPersonnel
@@ -156,6 +157,7 @@
   - HoPEnvirogloves
   - HoPGloves
   - HeadOfPersonnelUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Silicons
 - type: roleLoadout
@@ -190,6 +192,7 @@
   - AssistantEnvirosuit
   - AssistantEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobBartender
@@ -209,6 +212,7 @@
   - BartenderEnvirosuit
   - BartenderEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobServiceWorker
@@ -226,6 +230,7 @@
   - ServiceWorkerEnvirosuit
   - ServiceWorkerEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobChef
@@ -246,6 +251,7 @@
   - ChefEnvirosuit
   - ChefEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobLibrarian
@@ -263,6 +269,7 @@
   - LibrarianEnvirosuit
   - LibrarianEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobLawyer
@@ -281,6 +288,7 @@
   - LawyerEnvirosuit
   - LawyerEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobChaplain
@@ -302,6 +310,7 @@
   - ChaplainEnvirosuit
   - ChaplainEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobJanitor
@@ -323,6 +332,7 @@
   - JanitorEnvirosuit
   - JanitorEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobBotanist
@@ -342,6 +352,7 @@
   - BotanistEnvirosuit
   - BotanistEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobClown
@@ -362,6 +373,7 @@
   - ClownEnvirosuit
   - ClownEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobMime
@@ -384,6 +396,7 @@
   - MimeEnvirogloves
   - MimeGloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobMusician
@@ -403,6 +416,7 @@
   - MusicianEnvirosuit
   - MusicianEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Cargo
 - type: roleLoadout
@@ -425,6 +439,7 @@
   - QuartermasterEnvirosuit
   - QuartermasterEnvirogloves
   - QuartermasterUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobCargoTechnician
@@ -445,6 +460,7 @@
   - CargoTechnicianEnvirosuit
   - CargoTechnicianEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobSalvageSpecialist
@@ -464,6 +480,7 @@
   - SalvageEnvirosuit
   - SalvageEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Engineering
 - type: roleLoadout
@@ -485,6 +502,7 @@
   - ChiefEngineerEnvirosuit
   - ChiefEngineerEnvirogloves
   - ChiefEngineerUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobTechnicalAssistant
@@ -501,6 +519,7 @@
   - TechnicalAssistantEnvirosuit
   - TechnicalAssistantEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobStationEngineer
@@ -521,6 +540,7 @@
   - StationEngineerEnvirosuit
   - StationEngineerEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobAtmosphericTechnician
@@ -540,6 +560,7 @@
   - AtmosEnvirosuit
   - AtmosEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Science
 - type: roleLoadout
@@ -563,6 +584,7 @@
   - ResearchDirectorEnvirohelm
   - ResearchDirectorEnvirogloves
   - ResearchDirectorUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobScientist
@@ -586,6 +608,7 @@
   - ScientistEnvirosuit
   - ScientistEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobResearchAssistant
@@ -603,6 +626,7 @@
   - ResearchAssistantEnvirosuit
   - ResearchAssistantEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Security
 - type: roleLoadout
@@ -627,6 +651,7 @@
   - HeadofSecurityEnvirogloves
   - HeadofSecurityGloves
   - HeadOfSecurityUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobWarden
@@ -649,6 +674,7 @@
   - WardenEnvirosuit
   - WardenEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobSecurityOfficer
@@ -672,6 +698,7 @@
   - SecurityOfficerEnvirosuit
   - SecurityOfficerEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobDetective
@@ -693,6 +720,7 @@
   - DetectiveEnvirogloves
   - DetectiveGloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobSecurityCadet
@@ -711,6 +739,7 @@
   - SecurityCadetEnvirosuit
   - SecurityCadetEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Medical
 - type: roleLoadout
@@ -735,6 +764,7 @@
   - ChiefMedicalOfficerEnvirosuit
   - ChiefMedicalOfficerEnvirogloves
   - ChiefMedicalOfficerUnderwear ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobMedicalDoctor
@@ -758,6 +788,7 @@
   - MedicalDoctorEnvirosuit
   - MedicalDoctorEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobMedicalIntern
@@ -775,6 +806,7 @@
   - MedicalInternEnvirosuit
   - MedicalInternEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobChemist
@@ -796,6 +828,7 @@
   - ChemistEnvirosuit
   - ChemistEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobParamedic
@@ -818,6 +851,7 @@
   - ParamedicEnvirosuit
   - ParamedicEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # Wildcards
 - type: roleLoadout
@@ -837,6 +871,7 @@
   - ZookeeperEnvirosuit
   - ZookeeperEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobReporter
@@ -855,6 +890,7 @@
   - ReporterEnvirosuit
   - ReporterEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobPsychologist
@@ -872,6 +908,7 @@
   - PsychologistEnvirosuit
   - PsychologistEnvirogloves
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 - type: roleLoadout
   id: JobBoxer
@@ -889,6 +926,7 @@
   - BoxerEnvirohelm
   - BoxerEnvirosuit
   - DefaultUnderwearWhite ## Maid changes
+  - SocksUnderwear ## Maid changes - socks
 
 # These loadouts are used for non-crew spawns, like off-station antags and event mobs
 # They will be used without player configuration, thus they will only ever apply what is forced by MinLimit

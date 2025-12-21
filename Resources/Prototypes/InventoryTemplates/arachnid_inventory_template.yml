@@ -57,6 +57,39 @@
       uiWindowPos: 1,0
       strippingWindowPos: 1,3
       displayName: Shoes
+    - name: socks #WD slot
+      slotTexture: socks
+      slotFlags: SOCKS
+      stripTime: 6
+      uiWindowPos: 4,1
+      strippingWindowPos: 3,3
+      displayName: Socks
+      stripHidden: true
+      whitelist:
+        tags:
+        - socks
+    - name: underwearb #WD slot
+      slotTexture: underwearb
+      slotFlags: UNDERWEARB
+      stripTime: 6
+      uiWindowPos: 4,2
+      strippingWindowPos: 3,2
+      displayName: Panties
+      stripHidden: true
+      whitelist:
+        tags:
+        - underwearb
+    - name: underweart #WD slot
+      slotTexture: underweart
+      slotFlags: UNDERWEART
+      stripTime: 6
+      uiWindowPos: 4,3
+      strippingWindowPos: 3,1
+      displayName: Bra
+      stripHidden: true
+      whitelist:
+        tags:
+        - underweart
     - name: jumpsuit
       slotTexture: uniform
       slotFlags: INNERCLOTHING

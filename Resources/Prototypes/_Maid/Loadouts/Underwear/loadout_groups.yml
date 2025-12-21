@@ -1,18 +1,18 @@
 - type: loadoutGroup
   id: DefaultUnderwearWhite
-  name: loadout-group-default-captain-underwear
-  minLimit: 0
+  name: loadout-group-default-white-underwear
+  minLimit: 2
   hidden: true
   loadouts:
-  - ClothingUnderwearBottomBoxersWhite
-  - ClothingUnderwearBottomPantiesWhite
-  - ClothingUnderwearTopBraWhite
+  - UnderwearBottomBoxersWhite
+  - UnderwearBottomPantiesWhite
+  - UnderwearTopBraWhite
 
 # Капитан
 - type: loadoutGroup
   id: CaptainUnderwear
   name: loadout-group-default-captain-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - CaptainUnderwearBottomBoxers
@@ -23,7 +23,7 @@
 - type: loadoutGroup
   id: ChiefEngineerUnderwear
   name: loadout-group-default-ce-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - ChiefEngineerUnderwearBottomBoxers
@@ -34,7 +34,7 @@
 - type: loadoutGroup
   id: ChiefMedicalOfficerUnderwear
   name: loadout-group-default-cmo-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - ChiefMedicalOfficerUnderwearBottomBoxers
@@ -45,7 +45,7 @@
 - type: loadoutGroup
   id: HeadOfPersonnelUnderwear
   name: loadout-group-default-hop-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - HeadOfPersonnelUnderwearBottomBoxers
@@ -56,7 +56,7 @@
 - type: loadoutGroup
   id: HeadOfSecurityUnderwear
   name: loadout-group-default-hos-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - HeadOfSecurityUnderwearBottomBoxers
@@ -67,7 +67,7 @@
 - type: loadoutGroup
   id: QuartermasterUnderwear
   name: loadout-group-default-qm-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - QuartermasterUnderwearBottomBoxers
@@ -78,9 +78,41 @@
 - type: loadoutGroup
   id: ResearchDirectorUnderwear
   name: loadout-group-default-rd-underwear
-  minLimit: 0
+  minLimit: 2
   hidden: true
   loadouts:
   - ResearchDirectorUnderwearBottomBoxers
   - ResearchDirectorUnderwearBottomPanties
   - ResearchDirectorUnderwearTopBra
+
+# носки
+
+- type: loadoutGroup
+  id: SocksUnderwear
+  name: loadout-group-socks-underwear
+  loadouts:
+  - UnderwearSocksBeeKnee
+  - UnderwearSocksBeeNorm
+  - UnderwearSocksBeeThigh
+  - UnderwearSocksFishnet
+  - UnderwearSocksGarter
+  - UnderwearSocksPantyhose
+  - UnderwearSocksPantyhoseRipped
+  - UnderwearSocksRainbowKnee
+  - UnderwearSocksRainbowThigh
+  - UnderwearSocksHigh
+  - UnderwearSocksNormal
+  - UnderwearSocksShort
+  - UnderwearSocksThigh
+  - UnderwearStockingsBlue
+  - UnderwearStockingsCyan
+  - UnderwearStockingsPink
+  - UnderwearStockingsGreen
+  - UnderwearStockingsLightPink
+  - UnderwearStockingsLightOrange
+  - UnderwearStockingsLightPurple
+  - UnderwearStockingsLightYellow
+  - UnderwearSocksStripedKnee
+  - UnderwearSocksStripedThigh
+  - UnderwearSocksThinKnee
+  - UnderwearSocksThinThigh
