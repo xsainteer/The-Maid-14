@@ -22,7 +22,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed black-yellow.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/bee_knee.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/bee_knee.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -31,7 +31,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed black-yellow.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/bee_norm.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/bee_norm.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -40,7 +40,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed black-yellow.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/bee_thigh.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/bee_thigh.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -49,7 +49,7 @@
   description: Standard Nanotrasen stockings for station employees. Fishnet.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/fishnet.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/fishnet.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -58,7 +58,7 @@
   description: Standard Nanotrasen stockings for station employees. Fishnet.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/garter.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/garter.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -67,7 +67,7 @@
   description: Standard Nanotrasen stockings for station employees. Pantyhose.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/pantyhose.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/pantyhose.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -76,7 +76,7 @@
   description: Standard Nanotrasen stockings for station employees. Pantyhose ripped.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/pantyhose_ripped.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/pantyhose_ripped.rsi
 
 
 - type: entity
@@ -86,7 +86,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed rainbow.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/rainbow_knee.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/rainbow_knee.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -95,7 +95,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed rainbow.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Socks/rainbow_thigh.rsi
+      sprite: _Maid/Clothing/Underwear/Socks/rainbow_thigh.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -104,7 +104,7 @@
   description: Nanotrasen high socks for station employees. Painted white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/socks_knee.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/socks_knee.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -113,7 +113,7 @@
   description: Standard Nanotrasen socks for station employees. Dyed white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/socks_norm.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/socks_norm.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -122,7 +122,7 @@
   description: Nanotrasen short socks for station employees. Dyed white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/socks_short.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/socks_short.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -131,7 +131,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/socks_thigh.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/socks_thigh.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -140,7 +140,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed blue.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_blue.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_blue.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -149,7 +149,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed cyan.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_cyan.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_cyan.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -158,7 +158,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed pink.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_dpink.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_dpink.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -167,7 +167,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed green.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_green.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_green.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -176,7 +176,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed light pink.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_lpink.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_lpink.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -185,7 +185,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed orange.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_orange.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_orange.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -194,7 +194,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed purple.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_purple.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_purple.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -203,7 +203,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed yellow.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/stockings_yellow.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/stockings_yellow.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -212,7 +212,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed black-white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/striped_knee.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/striped_knee.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -221,7 +221,7 @@
   description: Standard Nanotrasen stockings for station employees. Dyed black-white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/striped_thigh.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/striped_thigh.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -230,7 +230,7 @@
   description: Standard Nanotrasen stockings for station employees. Transparent.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/thin_knee.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/thin_knee.rsi
 
 - type: entity
   parent: ClothingUnderwearSocksBase
@@ -239,5 +239,5 @@
   description: Standard Nanotrasen stockings for station employees. Transparent.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Socks/thin_thigh.rsi
+    sprite: _Maid/Clothing/Underwear/Socks/thin_thigh.rsi
 

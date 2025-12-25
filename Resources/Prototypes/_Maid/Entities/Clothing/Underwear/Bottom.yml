@@ -22,7 +22,7 @@
   description: Standard Nanotrasen underwear for station female employees. Painted white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -31,7 +31,7 @@
   description: Standard Nanotrasen underwear for station employees. Dyed white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/boxers.rsi
 
 #Underwear-for-the-heads
 - type: entity
@@ -41,7 +41,7 @@
   description: Standard station captain's underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/capitan/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/capitan/boxers.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -50,7 +50,7 @@
   description: Standard station chief engineer underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/ce/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/ce/boxers.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -59,7 +59,7 @@
   description: Standard station chief physician's underwear. For some reason they smell like chloral hydrate...
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/cmo/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/cmo/boxers.rsi
     state: icon
 
 - type: entity
@@ -69,7 +69,7 @@
   description: The standard underwear of the station's chief of staff.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/hop/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/hop/boxers.rsi
     state: icon
 
 - type: entity
@@ -79,7 +79,7 @@
   description: Standard station head of security underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/hos/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/hos/boxers.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -88,7 +88,7 @@
   description: Standard station quartermaster underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/qm/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/qm/boxers.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -97,7 +97,7 @@
   description: Standard research director's underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/rd/boxers.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/rd/boxers.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -106,7 +106,7 @@
   description: Standard station captain underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/capitan/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/capitan/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -115,7 +115,7 @@
   description: Standard station chief engineer underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/ce/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/ce/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -124,7 +124,7 @@
   description: Standard station chief physician's underwear. For some reason they smell like chloral hydrate...
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/cmo/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/cmo/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -133,7 +133,7 @@
   description: The standard underwear of the station's chief of staff.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/hop/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/hop/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -142,7 +142,7 @@
   description: Standard station head of security underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/hos/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/hos/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -151,7 +151,7 @@
   description: Standard station quartermaster underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/qm/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/qm/panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -160,7 +160,7 @@
   description: Standard research director's underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Bottom/heads/rd/panties.rsi
+    sprite: _Maid/Clothing/Underwear/Bottom/heads/rd/panties.rsi
 
 
 # ТРУСЫ БЛЯТЬ
@@ -172,7 +172,7 @@
   description: Bees.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/bee_shorts.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/bee_shorts.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -181,7 +181,7 @@
   description: With hearts.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/boxers_heart.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/boxers_heart.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -190,7 +190,7 @@
   description: Striped.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/boxers_striped.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/boxers_striped.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -199,7 +199,7 @@
   description: Briefs.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/briefs.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/briefs.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -208,7 +208,7 @@
   description: Fishnet.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/fishnet_lower.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/fishnet_lower.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -217,7 +217,7 @@
   description: Jockstrap.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/jockstrap.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/jockstrap.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -226,7 +226,7 @@
   description: Bikini but for man.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/mankini.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/mankini.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -235,7 +235,7 @@
   description: Bee.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/panties_bee_kini.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/panties_bee_kini.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -244,7 +244,7 @@
   description: Kinky.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/panties_kinky.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/panties_kinky.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -253,7 +253,7 @@
   description: Neko.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/panties_neko.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/panties_neko.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -262,7 +262,7 @@
   description: Slim.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/panties_slim.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/panties_slim.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -271,7 +271,7 @@
   description: For swimming.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/panties_swimming.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/panties_swimming.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -280,7 +280,7 @@
   description: Thin.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/panties_thin.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/panties_thin.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -289,7 +289,7 @@
   description: Stripped.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/striped_panties.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/striped_panties.rsi
 
 - type: entity
   parent: ClothingUnderwearBottomBase
@@ -298,5 +298,5 @@
   description: Thong.
   components:
     - type: Sprite
-      sprite: White/Clothing/Underwear/Bottom/thong.rsi
+      sprite: _Maid/Clothing/Underwear/Bottom/thong.rsi
 

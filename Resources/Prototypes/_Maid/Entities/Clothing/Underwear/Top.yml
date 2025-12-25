@@ -22,7 +22,7 @@
   description: Standard Nanotrasen bra for station staff. Painted white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -31,7 +31,7 @@
   description: Sports bra. Painted white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/sportsbra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/sportsbra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -40,7 +40,7 @@
   description: Sports bra. Alternate version. Painted white.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/sportsbraalt.rsi
+    sprite: _Maid/Clothing/Underwear/Top/sportsbraalt.rsi
 
 #Underwear-for-the-heads
 - type: entity
@@ -50,7 +50,7 @@
   description: Standard station captain's underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/capitan/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/capitan/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -59,7 +59,7 @@
   description: Standard station chief engineer's underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/ce/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/ce/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -68,7 +68,7 @@
   description: Standard underwear of the station chief medical officer. For some reason it smells like chloral hydrate...
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/cmo/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/cmo/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -77,7 +77,7 @@
   description: The standard underwear of the station's chief of staff.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/hop/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/hop/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -86,7 +86,7 @@
   description: Standard underwear of the station's head of security.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/hos/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/hos/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -95,7 +95,7 @@
   description: Standard station quartermaster underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/qm/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/qm/bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -104,7 +104,7 @@
   description: Standard research director's underwear.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/heads/rd/bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/heads/rd/bra.rsi
 
 
 #SPLURT
@@ -115,7 +115,7 @@
   description: Bee-Kini bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_bee_kini.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_bee_kini.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -124,7 +124,7 @@
   description: Binder bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_binder.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_binder.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -133,7 +133,7 @@
   description: Binder bra strapless.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_binder_strapless.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_binder_strapless.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -142,7 +142,7 @@
   description: Kinky bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_kinky.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_kinky.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -151,7 +151,7 @@
   description: Neko bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_neko.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_neko.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -160,7 +160,7 @@
   description: Strapless bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_strapless.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_strapless.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -169,7 +169,7 @@
   description: Strapless bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_strapless_alt.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_strapless_alt.rsi
 
 
 - type: entity
@@ -179,7 +179,7 @@
   description: Swimming bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_swimming.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_swimming.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -188,7 +188,7 @@
   description: Swimming bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_swimming_alt.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_swimming_alt.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -197,7 +197,7 @@
   description: Thin bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/bra_thin.rsi
+    sprite: _Maid/Clothing/Underwear/Top/bra_thin.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -206,7 +206,7 @@
   description: Fishnet bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/fishnet_body.rsi
+    sprite: _Maid/Clothing/Underwear/Top/fishnet_body.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -215,7 +215,7 @@
   description: Fishnet bra with gloves.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/fishnet_gloves.rsi
+    sprite: _Maid/Clothing/Underwear/Top/fishnet_gloves.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -224,7 +224,7 @@
   description: Fishnet bra with sleeves.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/fishnet_sleeves.rsi
+    sprite: _Maid/Clothing/Underwear/Top/fishnet_sleeves.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -233,7 +233,7 @@
   description: Halterneck bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/halterneck_bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/halterneck_bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -242,7 +242,7 @@
   description: Shibari bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/shibari.rsi
+    sprite: _Maid/Clothing/Underwear/Top/shibari.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -251,7 +251,7 @@
   description: Shibari bra with sleeves.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/shibari_sleeves.rsi
+    sprite: _Maid/Clothing/Underwear/Top/shibari_sleeves.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -260,7 +260,7 @@
   description: Striped bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/striped_bra.rsi
+    sprite: _Maid/Clothing/Underwear/Top/striped_bra.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -269,7 +269,7 @@
   description: Tubetop bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/tubetop.rsi
+    sprite: _Maid/Clothing/Underwear/Top/tubetop.rsi
 
 - type: entity
   parent: ClothingUnderwearTopBase
@@ -278,4 +278,4 @@
   description: Cow bra.
   components:
   - type: Sprite
-    sprite: White/Clothing/Underwear/Top/cow.rsi
+    sprite: _Maid/Clothing/Underwear/Top/cow.rsi
