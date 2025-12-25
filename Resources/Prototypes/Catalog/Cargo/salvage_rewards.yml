@@ -32,7 +32,7 @@
 - type: cargoProduct
   id: CargoSalvageHardsuit
   icon:
-    sprite: Clothing/OuterClothing/Hardsuits/salvage.rsi
+    sprite: _Maid/Clothing/OuterClothing/Hardsuits/salvage.rsi
     state: icon
   product: CrateSalvageHardsuit
   cost: 7500

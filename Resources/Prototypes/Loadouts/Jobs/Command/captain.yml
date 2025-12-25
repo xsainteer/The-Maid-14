@@ -155,6 +155,11 @@
     neck: ClothingNeckCloakCapFormal
 
 - type: loadout
+  id: CaptainCloakWealthy
+  equipment:
+    neck: ClothingNeckCloakCapWealthy
+
+- type: loadout
   id: CaptainMantle
   equipment:
     neck: ClothingNeckMantleCap

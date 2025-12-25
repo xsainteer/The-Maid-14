@@ -89,7 +89,7 @@
   description: A dark green cloak with light blue ornaments, given to those who proved themselves to master the precise art of engineering.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/ce.rsi
+    sprite: _Maid/Clothing/Neck/Cloaks/ce.rsi
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -111,7 +111,7 @@
   description: A white cloak with violet stripes, showing your status as the arbiter of cutting-edge technology.
   components:
   - type: Sprite
-    sprite: Clothing/Neck/Cloaks/rd.rsi
+    sprite: _Maid/Clothing/Neck/Cloaks/rd.rsi
   - type: StealTarget
     stealGroup: HeadCloak
 
@@ -163,6 +163,17 @@
   components:
   - type: Sprite
     sprite: Clothing/Neck/Cloaks/capcloakformal.rsi
+  - type: StealTarget
+    stealGroup: HeadCloak
+
+- type: entity
+  parent: [ClothingNeckBase, BaseCommandContraband]
+  id: ClothingNeckCloakCapWealthy
+  name: captain's wealthy cloak
+  description: A sophisticated and eye-catching cape to inspire someone.
+  components:
+  - type: Sprite
+    sprite: _Maid/Clothing/Neck/Cloaks/cap.rsi
   - type: StealTarget
     stealGroup: HeadCloak
 

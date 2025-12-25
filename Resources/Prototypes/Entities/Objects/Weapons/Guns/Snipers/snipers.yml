@@ -197,7 +197,7 @@
   description: A true relic, the Kardashev-Mosin has served in nearly every armed conflict since its creation 670 years ago. The bolt-action design of the rifle remains virtually identical to its original design, whether used for hunting, sniping, or endless trench warfare. Loads 10 rounds of .30 rifle.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/bolt_gun_wood.rsi
     layers:
     - state: base
     - state: base1
@@ -252,9 +252,16 @@
   description: For when you absolutely, positively need to make someone regret their life choices from a safe distance. Uses .60 anti-materiel ammo.
   components:
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/heavy_sniper.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/hristov-icons.rsi
+    layers:
+    - state: base
+      map: [ "enum.GunVisualLayers.Base" ]
+    - state: mag-0
+      map: [ "enum.GunVisualLayers.Mag" ]
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/heavy_sniper.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/hristov-inhands.rsi
+  - type: Item
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/hristov-inhands.rsi
   - type: GunRequiresWield
   - type: Gun
     # fireRate: 0.4 # Goobstation
@@ -279,6 +286,11 @@
     pvsIncrease: 0.8 # Goobstation - Sniper rifles buff
   - type: StaticPrice
     price: 3500
+  - type: MagazineVisuals
+    magState: mag
+    steps: 1
+    zeroVisible: true
+  - type: Appearance
 
 - type: entity
   name: musket
@@ -290,10 +302,10 @@
   - type: Item
     size: Large
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/musket.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/musket.rsi
     state: base
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/musket.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/musket.rsi
   - type: Gun
     selectedMode: SemiAuto
     availableModes:
@@ -335,9 +347,9 @@
     - 0,1,0,1
     storedRotation: 0
   - type: Sprite
-    sprite: Objects/Weapons/Guns/Snipers/flintlock.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/flintlock.rsi
   - type: Clothing
-    sprite: Objects/Weapons/Guns/Snipers/flintlock.rsi
+    sprite: _Maid/Objects/Weapons/Guns/Snipers/flintlock.rsi
   - type: UseDelayOnShoot
   - type: UseDelay
     delay: 8 #it's a flintlock

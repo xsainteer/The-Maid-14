@@ -478,9 +478,9 @@
   description: It's bright red and rather crisp, much like security's victims tend to be.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/hos.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/hos.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos.rsi
   - type: Item
     inhandVisuals:
       left:
@@ -501,9 +501,9 @@
   description: It's a turtleneck worn by those strong and disciplined enough to achieve the position of Head of Security.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/hos_alt.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_alt.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/hos_alt.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_alt.rsi
 
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
@@ -512,9 +512,9 @@
   description: A blue jumpsuit of Head of Security.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/hos_blue.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_blue.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/hos_blue.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_blue.rsi
 
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
@@ -523,9 +523,9 @@
   description: A grey jumpsuit of Head of Security, which make him look somewhat like a passenger.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/hos_grey.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_grey.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/hos_grey.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_grey.rsi
 
 - type: entity
   parent: [ClothingUniformBase, BaseCommandContraband]
@@ -534,9 +534,9 @@
   description: A male head of security's luxury-wear, for special occasions.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/hos_parade.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_parade.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/hos_parade.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hos_parade.rsi
 
 - type: entity
   parent: [ ClothingUniformBase, BaseCommandContraband ]
@@ -616,9 +616,9 @@
   description: This uniform is issued to qualified personnel who have been trained. No one cares that the training took half a day.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/brigmedic.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/brigmedic.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/brigmedic.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/brigmedic.rsi
 
 - type: entity
   parent: ClothingUniformBase
@@ -740,9 +740,9 @@
   description: A jumpsuit made of strong material, providing robust protection.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/security.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/security.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/security.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/security.rsi
   - type: Item
     inhandVisuals:
       left:
@@ -763,9 +763,9 @@
   description: I'm a little busy right now, Calhoun.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/security_blue.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/security_blue.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/security_blue.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/security_blue.rsi
 
 - type: entity
   parent: [ClothingUniformBase, BaseSecurityContraband]
@@ -774,9 +774,9 @@
   description: A tactical relic of years past before Nanotrasen decided it was cheaper to dye the suits red instead of washing out the blood.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/security_grey.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/security_grey.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/security_grey.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/security_grey.rsi
 
 - type: entity
   parent: [ClothingUniformBase, BaseSecurityContraband]
@@ -796,9 +796,9 @@
   description: A formal security suit for officers complete with Nanotrasen belt buckle.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/warden.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/warden.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/warden.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/warden.rsi
   - type: Item
     inhandVisuals:
       left:
@@ -973,9 +973,9 @@
   description: A suit for special occasions.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/hosformal.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hosformal.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/hosformal.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/hosformal.rsi
 
 - type: entity
   parent: [UnsensoredClothingUniformBase, BaseSyndicateContraband]
@@ -1342,9 +1342,9 @@
   description: A sign of skill and prestige within the security department.
   components:
   - type: Sprite
-    sprite: Clothing/Uniforms/Jumpsuit/senior_officer.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/senior_officer.rsi
   - type: Clothing
-    sprite: Clothing/Uniforms/Jumpsuit/senior_officer.rsi
+    sprite: _Maid/Clothing/Uniforms/Jumpsuit/senior_officer.rsi
 
 - type: entity
   parent: ClothingUniformBase

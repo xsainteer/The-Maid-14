@@ -310,6 +310,18 @@
     - !type:TileNotBlocked
 
 - type: construction
+  id: TableWoodBright
+  graph: Table
+  startNode: start
+  targetNode: TableWoodBright
+  category: construction-category-furniture
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
+
+- type: construction
   id: TableCarpet
   graph: Table
   startNode: start
@@ -665,6 +677,18 @@
   graph: Bookshelf
   startNode: start
   targetNode: bookshelf
+  category: construction-category-furniture
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
+
+- type: construction
+  id: BookshelfBright
+  graph: BookshelfBright
+  startNode: start
+  targetNode: bookshelfBright
   category: construction-category-furniture
   objectType: Structure
   placementMode: SnapgridCenter

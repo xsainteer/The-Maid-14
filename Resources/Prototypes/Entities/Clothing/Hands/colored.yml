@@ -398,7 +398,7 @@
   description: Regular black gloves that do not keep you from frying.
   components:
   - type: Sprite
-    sprite: Clothing/Hands/Gloves/Color/black.rsi
+    sprite: _Maid/Clothing/Gloves/black.rsi
   - type: Item
     inhandVisuals:
       left:
@@ -408,7 +408,7 @@
       - state: inhand-right
         color: "#535353"
   - type: Clothing
-    sprite: Clothing/Hands/Gloves/Color/black.rsi
+    sprite: _Maid/Clothing/Gloves/black.rsi
   - type: Butcherable
     butcheringType: Knife
     spawned:

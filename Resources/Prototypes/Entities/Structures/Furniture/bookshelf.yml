@@ -109,3 +109,24 @@
     graph: Bookshelf
     node: bookshelf
   - type: BlockWeather
+
+- type: entity
+  id: BookshelfBright
+  parent: Bookshelf
+  name: "bookshelf"
+  description: Mostly filled with books.
+  components:
+  - type: Sprite
+    sprite: _Maid/Structures/Furniture/bookshelf_bright.rsi # Maid
+    snapCardinals: true
+    layers:
+      - state: base
+      - state: book-0
+      - map: ["enum.StorageFillLayers.Fill"]
+  - type: Appearance
+  - type: StorageFillVisualizer
+    maxFillLevels: 21
+    fillBaseName: book
+  - type: Construction
+    graph: BookshelfBright
+    node: bookshelfBright

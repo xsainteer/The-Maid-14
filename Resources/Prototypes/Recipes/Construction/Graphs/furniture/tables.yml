@@ -108,6 +108,11 @@
               amount: 1
               doAfter: 1
 
+        - to: TableWoodBright
+          steps:
+            - material: WoodPlank
+              amount: 1
+              doAfter: 1
 
     - node: CounterWoodFrame
       entity: CounterWoodFrame
@@ -220,6 +225,18 @@
 
     - node: TableWood
       entity: TableWood
+      edges:
+        - to: TableFrame
+          completed:
+            - !type:SpawnPrototype
+              prototype: MaterialWoodPlank1
+              amount: 1
+          steps:
+            - tool: Prying
+              doAfter: 1
+
+    - node: TableWoodBright
+      entity: TableWoodBright
       edges:
         - to: TableFrame
           completed:

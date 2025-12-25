@@ -474,7 +474,7 @@
   description: The creep of automation now threatening space janitors.
   components:
   - type: Sprite
-    sprite: Mobs/Silicon/Bots/cleanbot.rsi
+    sprite: _Maid/Mobs/Silicon/Bots/cleanbot.rsi
     state: cleanbot
   - type: Construction
     graph: CleanBot
@@ -547,20 +547,10 @@
       Critical:
         reagent: SpaceDrugs
         quantity: 25
-  - type: RandomSprite
-    available:
-        - enum.DamageStateVisualLayers.Base:
-            medibot: ""
-          enum.DamageStateVisualLayers.BaseUnshaded:
-            powered: Rainbow
   - type: Sprite
-    sprite: _Goobstation/Mobs/Silicon/Bots/medibot.rsi
+    sprite: _Maid/Mobs/Silicon/Bots/medibot.rsi
     layers:
       - state: medibot
-        map: [ "enum.DamageStateVisualLayers.Base" ]
-      - state: powered
-        map: [ "enum.DamageStateVisualLayers.BaseUnshaded" ]
-        shader: unshaded
   - type: HTN
     rootTask:
       task: MedibotCompound
@@ -573,9 +563,8 @@
   - type: InteractionPopup
     interactSuccessString: petting-success-medibot
     interactFailureString: petting-failure-medibot
-    interactSuccessSpawn: EffectHearts
     interactSuccessSound:
-      path: /Audio/Animals/cat_meow.ogg
+      path: /Audio/Ambience/Objects/periodic_beep.ogg
   - type: ShowHealthBars
     damageContainers:
     - Biological
