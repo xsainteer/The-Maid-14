@@ -168,7 +168,7 @@
     ClothingNeckPonchoSmallWhite: 3 # Monolith
     # DO NOT ADD MORE, USE UNIFORM DYING
 
-    #White bra start
+  # Maid Bra Start
     ClothingUnderwearTopBraWhite: 5
     ClothingUnderwearTopBraSports: 5
     ClothingUnderwearTopBraSportsAlternative: 5
@@ -191,9 +191,9 @@
     ClothingUnderwearTopBraStriped: 1
     ClothingUnderwearTopBraTubetop: 2
     ClothingUnderwearTopCow: 1
-    #white end
+  # Maid end
 
-    #White panties start
+  # Maid Panties start
     ClothingUnderwearBottomBeeShorts: 2
     ClothingUnderwearBottomBoxersHeart: 2
     ClothingUnderwearBottomBoxersStriped: 2
@@ -209,9 +209,9 @@
     ClothingUnderwearBottomPantiesThin: 1
     ClothingUnderwearBottomPantiesStripped: 2
     ClothingUnderwearBottomPantiesThong: 3
-    #white end
+  # Maid end
 
-    #white socks start
+  # Maid Socks start
     ClothingUnderwearSocksBeeKnee: 2
     ClothingUnderwearSocksBeeNorm: 2
     ClothingUnderwearSocksBeeThigh: 2
@@ -237,7 +237,7 @@
     ClothingUnderwearSocksStripedThigh: 2
     ClothingUnderwearSocksThinKnee: 1
     ClothingUnderwearSocksThinThigh: 1
-    # white end
+  # Maid end
 
   contrabandInventory:
     ClothingMaskNeckGaiter: 2

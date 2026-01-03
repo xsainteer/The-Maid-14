@@ -8,7 +8,7 @@
   - UnderwearBottomPantiesWhite
   - UnderwearTopBraWhite
 
-# Капитан
+# Captain
 - type: loadoutGroup
   id: CaptainUnderwear
   name: loadout-group-default-captain-underwear
@@ -19,7 +19,7 @@
   - CaptainUnderwearBottomPanties
   - CaptainUnderwearTopBra
 
-# Главный инженер
+# ChiefEngineer
 - type: loadoutGroup
   id: ChiefEngineerUnderwear
   name: loadout-group-default-ce-underwear
@@ -30,7 +30,7 @@
   - ChiefEngineerUnderwearBottomPanties
   - ChiefEngineerUnderwearTopBra
 
-# Главный врач
+# ChiefMedicalOfficer
 - type: loadoutGroup
   id: ChiefMedicalOfficerUnderwear
   name: loadout-group-default-cmo-underwear
@@ -41,7 +41,7 @@
   - ChiefMedicalOfficerUnderwearBottomPanties
   - ChiefMedicalOfficerUnderwearTopBra
 
-# Глава персонала
+# HeadOfPersonnel
 - type: loadoutGroup
   id: HeadOfPersonnelUnderwear
   name: loadout-group-default-hop-underwear
@@ -52,7 +52,7 @@
   - HeadOfPersonnelUnderwearBottomPanties
   - HeadOfPersonnelUnderwearTopBra
 
-# Начальник охраны
+# HeadOfSecurity
 - type: loadoutGroup
   id: HeadOfSecurityUnderwear
   name: loadout-group-default-hos-underwear
@@ -63,7 +63,7 @@
   - HeadOfSecurityUnderwearBottomPanties
   - HeadOfSecurityUnderwearTopBra
 
-# Квартирмейстер
+# Quartermaster
 - type: loadoutGroup
   id: QuartermasterUnderwear
   name: loadout-group-default-qm-underwear
@@ -74,7 +74,7 @@
   - QuartermasterUnderwearBottomPanties
   - QuartermasterUnderwearTopBra
 
-# Директор исследований
+# Quartermaster
 - type: loadoutGroup
   id: ResearchDirectorUnderwear
   name: loadout-group-default-rd-underwear
@@ -85,7 +85,7 @@
   - ResearchDirectorUnderwearBottomPanties
   - ResearchDirectorUnderwearTopBra
 
-# носки
+# Socks
 
 - type: loadoutGroup
   id: SocksUnderwear

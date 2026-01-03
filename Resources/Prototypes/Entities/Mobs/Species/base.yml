@@ -271,11 +271,11 @@
     - map: [ "enum.HumanoidVisualLayers.LLeg" ]
     - map: [ "enum.HumanoidVisualLayers.Underwear" ] # Goob 3370
     - map: [ "enum.HumanoidVisualLayers.Undershirt" ] # Goob 3370
-    - map: [ "underwearb" ] #White
-    - map: [ "underweart" ] #White
+    - map: [ "underwearb" ] # Maid
+    - map: [ "underweart" ] # Maid
     - map: [ "enum.HumanoidVisualLayers.LFoot" ]
     - map: [ "enum.HumanoidVisualLayers.RFoot" ]
-    - map: [ "socks" ] #White
+    - map: [ "socks" ] # Maid
     - map: ["jumpsuit"]
     - map: ["enum.HumanoidVisualLayers.LHand"]
     - map: ["enum.HumanoidVisualLayers.RHand"]
@@ -611,11 +611,11 @@
     - map: [ "enum.HumanoidVisualLayers.LLeg" ]
     - map: [ "enum.HumanoidVisualLayers.Underwear" ] # Goob 3370
     - map: [ "enum.HumanoidVisualLayers.Undershirt" ] # Goob 3370
-    - map: [ "underwearb" ] #White
-    - map: [ "underweart" ] #White
+    - map: [ "underwearb" ] # Maid
+    - map: [ "underweart" ] # Maid
     - map: [ "enum.HumanoidVisualLayers.LFoot" ]
     - map: [ "enum.HumanoidVisualLayers.RFoot" ]
-    - map: [ "socks" ] #White
+    - map: [ "socks" ] # Maid
     - map: ["jumpsuit"]
     - map: ["enum.HumanoidVisualLayers.LHand"]
     - map: ["enum.HumanoidVisualLayers.RHand"]

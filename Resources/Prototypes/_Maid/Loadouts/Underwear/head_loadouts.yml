@@ -1,4 +1,4 @@
-# Капитан
+# Captain
 - type: loadout
   id: CaptainUnderwearBottomBoxers
   effects:
@@ -23,7 +23,7 @@
   equipment:
     underweart: ClothingUnderwearTopBraCap
 
-# Главный инженер
+# ChiefEngineer
 - type: loadout
   id: ChiefEngineerUnderwearBottomBoxers
   effects:
@@ -48,7 +48,7 @@
   equipment:
     underweart: ClothingUnderwearTopBraCE
 
-# Главный врач
+# ChiefMedicalOfficer
 - type: loadout
   id: ChiefMedicalOfficerUnderwearBottomBoxers
   effects:
@@ -73,7 +73,7 @@
   equipment:
     underweart: ClothingUnderwearTopBraCMO
 
-# Глава персонала
+# HeadOfPersonnel
 - type: loadout
   id: HeadOfPersonnelUnderwearBottomBoxers
   effects:
@@ -98,7 +98,7 @@
   equipment:
     underweart: ClothingUnderwearTopBraHOP
 
-# Глава службы безопасности
+# HeadOfSecurity
 - type: loadout
   id: HeadOfSecurityUnderwearBottomBoxers
   effects:
@@ -123,7 +123,7 @@
   equipment:
     underweart: ClothingUnderwearTopBraHOS
 
-# Квартирмейстер
+# Quartermaster
 - type: loadout
   id: QuartermasterUnderwearBottomBoxers
   effects:
@@ -148,7 +148,7 @@
   equipment:
     underweart: ClothingUnderwearTopBraQM
 
-# Научный руководитель
+# ResearchDirector
 - type: loadout
   id: ResearchDirectorUnderwearBottomBoxers
   effects:
