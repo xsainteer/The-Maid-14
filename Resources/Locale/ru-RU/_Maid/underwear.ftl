@@ -1,9 +1,9 @@
 loadout-group-sex-restriction = Этот предмет не доступен для вашего пола.
 loadout-group-socks-underwear = носки
-loadout-group-default-captain = нижнее белье капитана
-loadout-group-default-ce = нижнее белье старшего инженера
-loadout-group-default-cmo = нижнее белье главного врача
-loadout-group-default-hop = нижнее белье главы персонала
-loadout-group-default-hos = нижнее белье главы службы безопасности
-loadout-group-default-qm = нижнее белье квартирмейстера
-loadout-group-default-rd = нижнее белье научного руководителя
+loadout-group-default-captain-underwear = нижнее белье капитана
+loadout-group-default-ce-underwear = нижнее белье старшего инженера
+loadout-group-default-cmo-underwear = нижнее белье главного врача
+loadout-group-default-hop-underwear = нижнее белье главы персонала
+loadout-group-default-hos-underwear = нижнее белье главы службы безопасности
+loadout-group-default-qm-underwear = нижнее белье квартирмейстера
+loadout-group-default-rd-underwear = нижнее белье научного руководителя
